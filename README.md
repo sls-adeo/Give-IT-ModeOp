@@ -1,3 +1,14 @@
-# Give-IT-ModeOp
+# Guide for setting up a laptop with a Linux Emmabuntus distribution
 
-## Ceci est le guide pour installer un portable avec une Ditribution Linux Emmabuntus
+> Produce a SlideShow with Pandoc 
+
+1. Fill the file legende.csv 
+
+> column A : Filename and Name of the slide
+> column B : Legend of the slide
+
+2. Launch the shell script slide.sh <html> | <pdf>
+    <html> create a slideshow in html
+    <pdf>  create a slideshow in pdf
+      
+Enjoy       
