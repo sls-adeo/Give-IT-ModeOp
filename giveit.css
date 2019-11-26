@@ -1,0 +1,3 @@
+table          { margin: auto; }                  /* centre le tableau dans la page */
+table, th, td  { border-collapse: collapse; border: solid 1px #999; padding: 3px; }  /* ajout bordures */
+caption        { caption-side: bottom; }          /* déplace la légende en-dessous du tableau */
