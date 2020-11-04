@@ -1,4 +1,4 @@
-# Guide for setting up a laptop with a Linux Emmabuntus distribution
+# Guide for setting up a laptop with a Linux Emmabuntus distribution DE3
 
 
 ## How to Produce a SlideShow used during the session with Pandoc 
