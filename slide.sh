@@ -7,6 +7,7 @@
 #
 # Echantillon couleur https://htmlcolorcodes.com/fr/
 #
+# 20210913 pandoc use xelatex for generating pdf
 #---------------- var
 MDFILE="slide2.md"
 DESCSLIDE="legende.csv"
@@ -27,7 +28,7 @@ header_pdf()
 
     echo "% Installation Guide" > $MDFILE 
     echo "% Team Give IT / $DATEJ" >> $MDFILE  
-    echo "% Well, installation with a touchpad is quite painful so plug a mouse !"  >> $MDFILE
+    echo "% Well, installation will be done in 7mn without a mouse, YES!"  >> $MDFILE
     echo " "  >> $MDFILE
 }
 
@@ -47,7 +48,7 @@ header_html()
 
     echo "% Installation Guide" > $MDFILE 
     echo "% Team Give IT / $DATEJ" >> $MDFILE 
-    echo "% Well, installation with a touchpad is quite painful so plug a mouse !"  >> $MDFILE
+    echo "% Well, installation will be done in 7mn without a mouse, YES!"  >> $MDFILE
     #echo ""                    >> $MDFILE
     echo " "  >> $MDFILE
 }
@@ -106,7 +107,8 @@ done < ${DESCSLIDE}
 
 #---------- Produce Pdf/ SlideShow
 if [ "$PARAM1" = "PDF" ]; then
-	pandoc -t beamer $MDFILE -V theme:Warsaw -o $PDF
+	#pandoc -t beamer $MDFILE -V theme:Warsaw -o $PDF
+	pandoc --pdf-engine=xelatex $MDFILE -V theme:Warsaw -o $PDF
 	[ $? -eq 0 ] && echo "Generating PDF <$PDF> OK"
 else
 	pandoc -t slidy -s $MDFILE  -o $SLIDESHOW
