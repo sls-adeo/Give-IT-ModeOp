@@ -16,5 +16,5 @@ Enjoy
 
 Some package can be mandatory :
 ```
-sudo apt-get install texlive-xete pandoc
+sudo apt-get install texlive-xetex pandoc
 ```
