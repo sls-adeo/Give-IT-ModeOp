@@ -60,7 +60,7 @@ body_html()
     echo "<!-- ---------------PAGE $NBPAGE------------------------------------- -->"                >> $MDFILE 
     echo " "                                                                                        >> $MDFILE 
     echo "<table border=\"0\" cellspacing=\"0\" cellpadding=\"4\" align=\"center\" width=\"90%\">" >> $MDFILE
-    echo "   <tr><td align=\"center\"><img src=\"./images/$IMAGENAME\" width=\"75%\"/></td></tr>"   >> $MDFILE
+    echo "   <tr><td align=\"center\"><img src=\"./images/$IMAGENAME\" width=\"75%\" /></td></tr>"   >> $MDFILE
     echo "   <tr><td align=\"center\">$LEGENDE</tr>"                                                >> $MDFILE
     echo "</table>"                                                                                 >> $MDFILE
   
