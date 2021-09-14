@@ -1,4 +1,4 @@
-# Guide for setting up a laptop with a Linux Emmabuntus distribution
+# Guide for setting up a laptop with the Clone  GiveIT
 
 
 ## How to Produce a SlideShow used during the session with Pandoc 
@@ -12,4 +12,9 @@
     <html> create a slideshow in html
     <pdf>  create a slideshow in pdf
       
-Enjoy       
+Enjoy
+
+Some package can be mandatory :
+```
+sudo apt-get install texlive-xetex pandoc
+```

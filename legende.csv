@@ -1,69 +1,19 @@
-20181112_180236.jpg|USB Key|Get the key
-20181112_180249.jpg|USB Key|Find the USB Port
-20190804_172052.jpg|Start the PC |Press F12  key and identify the USB HDD line
-20190804_172102.jpg|Distribution Start|Choose French Installation
-20190804_172112.jpg|Distribution Start|Install in graphic mode, it’s nicer
-20190804_172131.jpg|Distribution Start|Keyboard is in the Moliere language
-20190804_172154.jpg|Device detection|Detect devices for installation 
-20190804_172302.jpg|Network ! |Choose Ethernet Controller (enp9s0)
-20190804_172323.jpg|Network ! |Try to configure the network
-20190804_172421.jpg|Network ! |Normal error message, installation will be without network
-20190804_172434.jpg|Network ! |Don’t configure the network
-20190804_172451.jpg|Naming rule|Name the Laptop ‘LaptopX’
-20190804_172519.jpg|Naming rule|Fill the password of the SuperUser (Twice!)
-20190804_172537.jpg|Naming rule|Create a user account (giveit)
-20190804_172549.jpg|Naming rule|Create the login account (giveit)
-20190804_172629.jpg|Naming rule|Fill the password of the GiveIT user (Twice!)
-20190804_172707.jpg|Soft disk|Configure the Hard Drive –>  Assisted Use the full disk
-20190804_172714.jpg|Soft disk|Choose SCSI1 (sda)
-20190804_172723.jpg|Soft disk|All in the same partition
-20190804_172732.jpg|Soft disk|Done ! Apply the change
-20190804_172741.jpg|Soft disk|Apply the change ? YES !
-20190804_172803.jpg|Package installation|Copy packages on the disk
-20190804_173433.jpg|Package installation|Use a mirror for updating packages ? Yes use one !
-20190804_173501.jpg|Package installation|Yes, we’ll start a laptop with a boot menu called GRUB ...
-20190804_173510.jpg|Package installation|... and we are setting up on the hard drive (/dev/sda) 
-20190807_115401.jpg|Package installation|Installation done, let’s continue and reboot laptop ...
-20190804_173715.jpg|Re-Start|Choose first Menu option (Emmabuntus Debian Edition 3 GNU/Linux)
-20190804_173801.jpg|First launch|Type the password of GiveIT user
-20190804_173817.jpg|First launch|Accept the Welcome message
-20190804_173911.jpg|Configure the Desktop|Choose the classical version (do as the screenshot)
-20190804_173924.jpg|Configure the Desktop|What about the Cairo Dock as on Mac OS ? (do as the screenshot)
-20190804_173935.jpg|Configure the Desktop|Select a Simple Cairo Dock
-20190804_174005.jpg|Configure the Desktop|Select non Free Software (do as the screenshot)
-20190804_174116.jpg|Configure the Desktop|Delete some useless languages (do as the screenshot)
-20190804_174152.jpg|Configure the Desktop|Cool ... main installation is done ! Welcome EmmaBuntüs 3 !
-20190804_174259.jpg|Configure the Desktop|Here is the background of EmmaBuntüs
-20190807_113634.jpg|Connexion To Internet|In the Upper right corner, identify the Network GUEST
-20190807_113650.jpg|Connection To Internet|Connect to it
-20190807_113706.jpg|Connection To Internet|Connected ! 
-20190807_113733.jpg|Connection To Internet|Open Firefox
-20190807_114232.jpg|Connection To Internet|The captive portal is openning, create an account
-20190807_114833.jpg|Connection To Internet|Type user info as on the copy screen / Record it
-20190807_114857.jpg|Connection To Internet|Accept the CGU ! 
-20190807_114906.jpg|Connection To Internet|Welcome Internet ! 
-20190804_174259.jpg|Configure the Lilo Engine|Open Firefox ESR
-20190804_174458.jpg|Configure the Lilo Engine|Click on the Lilo drop on the page and click on « je soutiens actuellement le projet EMMABUNTÜS »
-20190804_174522.jpg|Configure the Lilo Engine|Switch ON on OFF
-20190804_174553.jpg|Configure the Lilo Engine|Search a new project : Brico du coeur
-20190804_174606.jpg|Configure the Lilo Engine|Here it is Brico du coeur
-20190804_174621.jpg|Configure the Lilo Engine|Give the drop to the project
-20190804_174642.jpg|Shortcuts|Create Shortcuts : from the desktop, right click, « Lancer le programme... »
-20190804_174657.jpg|Shortcuts|Type Libreoffice it's a software like Word/Excel. We have to slide icons Calc - Impress - Writer on the desktop
-20190804_174739.jpg|Shortcuts|Do the same with Gimp (Image Tool)
-20190804_174750.jpg|Shortcuts|Click on each icôn for testing .. Well Software is not reliable so mark it as Executable
-20190804_174758.jpg|Shortcuts|Well Office Spreadsheet is OK
-20190804_174844.jpg|Shortcuts|Well the Gimp is OK
-20181115_154555.jpg|Laptop branded Brico du Coeur|Get the package for the background. Connect to https://younity.groupeadeo.com/thread/595736 , ! DON'T SAVE YOUR PASSWORD ! 
-20181115_154611.jpg|Laptop branded Brico du Coeur|Get the linked document / Open with Archive manager
-20181115_154709.jpg|Laptop branded Brico du Coeur|As told Bigard : we install the paquet 
-20181115_154718.jpg|Laptop branded Brico du Coeur|Fill with the admin password
-20181115_154732.jpg|Laptop branded Brico du Coeur|Paquet installed
-20190807_115401.jpg|Laptop branded Brico du Coeur|Restart the Laptop
-20190804_182825.jpg|This is the end|Well see the Splash Screen Bricos du Coeur
-20190804_182851.jpg|This is the end|ALL RIGHT GUY 
+#Name of the image | Title | Description
+20210908_184302.jpg|Laptop must be blank|Push the Start Button on top left
+20210908_184325.jpg|Laptop must be blank|When this message Press the ‘Echap’ Key for entering in the Laptop menu
+20210908_184343.jpg|Laptop must be blank|Choose Configuration Bios (F10)
+20210908_184350.jpg|Laptop must be blank|In Principal Menu Apply default parameter set in factory and quit
+20210908_184357.jpg|Laptop must be blank|Confirm !
+20210908_184613.jpg|Laptop must be blank|PC will reboot and may be you'll have this message (Secure Boot). Enter the code for authorizing the change
+20210908_184325.jpg|Change Language|When this message Press the ‘Echap’ Key for entering in the Laptop menu
+20210908_184343.jpg|Change Language|Choose Configuration Bios (F10)
+20210908_184703.jpg|Change Language|Choose in Advanced -> Display Language
+20210908_184723.jpg|Change Language|Set to French And 'Quitter'
+20210908_184734.jpg|Change Language|'Enregistrer les modifications' and the Laptop will reboot
+20210908_184752.jpg|Start the installation|Plug the USB KEY
+20210908_184806.jpg|Start the installation|PC is restarting and you'll see the menu GiveIT ( Installation automatique par clonage). Press Enter
+20210908_184925.jpg|Start the installation|After a couple of technical messages , you'll have this message: Answer O for installing the system
+20210908_184934.jpg|Start the installation|Answer O again for installing the system
+20210908_185720.jpg|Start the installation|After a couple of minutes, installation will be done with that message ( Laptop will reboot …)
+20210908_185804.jpg|Installation done|Let the system start. You wll that wallpaper and the box 'Bienvenue'. Installation is done
 amazing.gif|This is the end !!! THANKS !!!|
-20190804_174907.jpg|Install Updates (Optional)|Click on the circle Icon in the task bar
-20190804_174918.jpg|Install Updates (Optional)|Clic on « Installer les mises à jour »
-20190804_175307.jpg|Install Updates (Optional)|The admin password will be asked, let's wait 30 minutes par updating everything o_O
-
