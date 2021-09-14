@@ -7,6 +7,7 @@
 
 * column A : Filename and Name of the slide
 * column B : Legend of the slide
+* column C : Description of the Slide
 
 2. Launch the shell script slide.sh <html> | <pdf>
     <html> create a slideshow in html
