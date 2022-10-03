@@ -1,130 +1,52 @@
 % Installation Guide
-% Team Give IT / Tue 14 2021
+% Team Give IT / Mon 03 2022
 % Well, installation will be done in 7mn without a mouse, YES!
  
-# Laptop must be blank {style="background: #DBCECC; text-align:center;"}
-<!-- ---------------PAGE 1------------------------------------- -->
+# Start
+![Push the Start Button on top left](./images/20210908_184302.jpg "Push the Start Button on top left"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184302.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Push the Start Button on top left</tr>
-</table>
-# Laptop must be blank {style="background: #DBCECD; text-align:center;"}
-<!-- ---------------PAGE 2------------------------------------- -->
+# Start
+![Press Key for entering in Bios (F12)](./images/20180209_113317-1024x768.jpg "Press Key for entering in Bios (F12)"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184325.jpg" width="75%" /></td></tr>
-   <tr><td align="center">When this message Press the ‘Echap’ Key for entering in the Laptop menu</tr>
-</table>
-# Laptop must be blank {style="background: #DBCECE; text-align:center;"}
-<!-- ---------------PAGE 3------------------------------------- -->
+# Start
+![You must have something like that](./images/dell-bios-setup.jpg "You must have something like that"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184343.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Choose Configuration Bios (F10)</tr>
-</table>
-# Laptop must be blank {style="background: #DBCECF; text-align:center;"}
-<!-- ---------------PAGE 4------------------------------------- -->
+# Start
+![Then boot on the USB KEY](./images/bootusbkey.jpg "Then boot on the USB KEY"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184350.jpg" width="75%" /></td></tr>
-   <tr><td align="center">In Principal Menu Apply default parameter set in factory and quit</tr>
-</table>
-# Laptop must be blank {style="background: #DBCED0; text-align:center;"}
-<!-- ---------------PAGE 5------------------------------------- -->
+# Accept to boot on USB Key
+![a message like that must popup](./images/20220905_185259.jpg "a message like that must popup"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184357.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Confirm !</tr>
-</table>
-# Laptop must be blank {style="background: #DBCED1; text-align:center;"}
-<!-- ---------------PAGE 6------------------------------------- -->
+# Accept to boot on USB Key
+![Perform the beginning of the enrollment](./images/20220905_185307.jpg "Perform the beginning of the enrollment"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184613.jpg" width="75%" /></td></tr>
-   <tr><td align="center">PC will reboot and may be you'll have this message (Secure Boot). Enter the code for authorizing the change</tr>
-</table>
-# Change Language {style="background: #DBCED2; text-align:center;"}
-<!-- ---------------PAGE 7------------------------------------- -->
+# Accept to boot on USB Key
+![Enroll the USB Key](./images/20220905_185316.jpg "Enroll the USB Key"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184325.jpg" width="75%" /></td></tr>
-   <tr><td align="center">When this message Press the ‘Echap’ Key for entering in the Laptop menu</tr>
-</table>
-# Change Language {style="background: #DBCED3; text-align:center;"}
-<!-- ---------------PAGE 8------------------------------------- -->
+# Accept to boot on USB Key
+![Choose the Ventoy option ( the USB key)](./images/20220905_185324.jpg "Choose the Ventoy option ( the USB key)"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184343.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Choose Configuration Bios (F10)</tr>
-</table>
-# Change Language {style="background: #DBCED4; text-align:center;"}
-<!-- ---------------PAGE 9------------------------------------- -->
+# Accept to boot on USB Key
+![Use this option of CERtificat](./images/20220905_185333.jpg "Use this option of CERtificat"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184703.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Choose in Advanced -> Display Language</tr>
-</table>
-# Change Language {style="background: #DBCED5; text-align:center;"}
-<!-- ---------------PAGE 10------------------------------------- -->
+# Accept to boot on USB Key
+![Then continue](./images/20220905_185340.jpg "Then continue"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184723.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Set to French And 'Quitter'</tr>
-</table>
-# Change Language {style="background: #DBCED6; text-align:center;"}
-<!-- ---------------PAGE 11------------------------------------- -->
+# Accept to boot on USB Key
+![And say Yes](./images/20220905_185347.jpg "And say Yes"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184734.jpg" width="75%" /></td></tr>
-   <tr><td align="center">'Enregistrer les modifications' and the Laptop will reboot</tr>
-</table>
-# Start the installation {style="background: #DBCED7; text-align:center;"}
-<!-- ---------------PAGE 12------------------------------------- -->
+# Accept to boot on USB Key
+![Then Reboot and let installation begin](./images/20220905_185354.jpg "Then Reboot and let installation begin"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184752.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Plug the USB KEY</tr>
-</table>
-# Start the installation {style="background: #DBCED8; text-align:center;"}
-<!-- ---------------PAGE 13------------------------------------- -->
+# Start the installation
+![Press ENTER for launching the installation](./images/20220905_185429.jpg "Press ENTER for launching the installation"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184806.jpg" width="75%" /></td></tr>
-   <tr><td align="center">PC is restarting and you'll see the menu GiveIT ( Installation automatique par clonage). Press Enter</tr>
-</table>
-# Start the installation {style="background: #DBCED9; text-align:center;"}
-<!-- ---------------PAGE 14------------------------------------- -->
+# Start the installation
+![Choose the Automatic Installation](./images/20220905_185440.jpg "Choose the Automatic Installation"){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184925.jpg" width="75%" /></td></tr>
-   <tr><td align="center">After a couple of technical messages , you'll have this message: Answer O for installing the system</tr>
-</table>
-# Start the installation {style="background: #DBCEDA; text-align:center;"}
-<!-- ---------------PAGE 15------------------------------------- -->
+# Start the installation
+![Say OUI twice and installation is in progress ...](./images/workInProgress.jpg "Say OUI twice and installation is in progress ..."){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_184934.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Answer O again for installing the system</tr>
-</table>
-# Start the installation {style="background: #DBCEDB; text-align:center;"}
-<!-- ---------------PAGE 16------------------------------------- -->
+# This is the end !!! THANKS !!!
+![](./images/amazing.gif ""){ width=250px }
  
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_185720.jpg" width="75%" /></td></tr>
-   <tr><td align="center">After a couple of minutes, installation will be done with that message ( Laptop will reboot …)</tr>
-</table>
-# Installation done {style="background: #DBCEDC; text-align:center;"}
-<!-- ---------------PAGE 17------------------------------------- -->
- 
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/20210908_185804.jpg" width="75%" /></td></tr>
-   <tr><td align="center">Let the system start. You wll that wallpaper and the box 'Bienvenue'. Installation is done</tr>
-</table>
-# This is the end !!! THANKS !!! {style="background: #DBCEDD; text-align:center;"}
-<!-- ---------------PAGE 18------------------------------------- -->
- 
-<table border="0" cellspacing="0" cellpadding="4" align="center" width="90%">
-   <tr><td align="center"><img src="./images/amazing.gif" width="75%" /></td></tr>
-   <tr><td align="center"></tr>
-</table>

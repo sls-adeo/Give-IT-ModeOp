@@ -3,8 +3,6 @@
 #
 #  slide.sh : Generate a Pandoc file with photos
 #
-#
-#
 # Echantillon couleur https://htmlcolorcodes.com/fr/
 #
 # 20210913 pandoc use xelatex for generating pdf
