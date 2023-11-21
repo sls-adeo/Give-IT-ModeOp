@@ -1,9 +1,9 @@
-# Guide for setting up a laptop with the Clone  GiveIT
+# Guide for setting up a laptop with the Clone GiveIT
 
 
 ## How to Produce a SlideShow used during the session with Pandoc 
 
-1. Fill the file legende.csv 
+1. Fill the CSV file legende.csv 
 
 * column A : Filename and Name of the slide
 * column B : Legend of the slide
